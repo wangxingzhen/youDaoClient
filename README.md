@@ -11,7 +11,7 @@
 例子：
 
 ```bigquery
-[root@localhost youDaoClient]# ./youDaoClient 翻译一下
+[root@localhost youDaoClient]# fanyi 翻译一下
 待翻译的文本：
         翻译一下
 翻译结果：
