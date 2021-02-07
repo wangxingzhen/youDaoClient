@@ -24,6 +24,7 @@
 ### 下载地址
 win客户端
 [下载](https://gitee.com/wang-xingzhen/you-dao-client/raw/master/exec/win/fanyi.exe "下载")
+
 （发现一个已知问题：在win10原生命令行下，因为编码格式的原因，输出的汉语会乱码，推荐使用cmder地址https://cmder.net/）
 
 
