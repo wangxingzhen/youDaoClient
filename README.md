@@ -28,10 +28,10 @@ win客户端
 [下载](https://gitee.com/wang-xingzhen/you-dao-client/raw/master/exec/win/fanyi.exe "下载")
 
 linux客户端
-[下载](https://gitee.com/wang-xingzhen/you-dao-client/raw/master/exec/linux/fanyi "下载")
+[下载](https://gitee.com/wang-xingzhen/you-dao-client/raw/master/exec/linux/fanyi.zip "下载")
 
 osx客户端
-[下载](https://gitee.com/wang-xingzhen/you-dao-client/raw/master/exec/osx/fanyi "下载")
+[下载](https://gitee.com/wang-xingzhen/you-dao-client/raw/master/exec/osx/fanyi.zip "下载")
 
 ### 使用说明
 下载对应的客户端之后，可以配置一下系统全局变量，这样在任何一个路径下都可以使用了，需要注意的是，需要联网，且服务器在北京的阿里云上，请知晓
