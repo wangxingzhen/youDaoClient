@@ -11,6 +11,7 @@ func main() {
 
 	q := getStr()
 	if q == "" {
+		fmt.Println("使用说明： fanyi [待翻译的文本]")
 		return
 	}
 	res := client.YDFanYi(q)
