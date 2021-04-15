@@ -12,7 +12,7 @@
 
 例子：
 
-```bigquery
+```shell
 [root@localhost youDaoClient]# fanyi 翻译一下
 待翻译的文本：
         翻译一下
